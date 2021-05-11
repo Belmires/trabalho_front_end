@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "export": "next build && next export",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
